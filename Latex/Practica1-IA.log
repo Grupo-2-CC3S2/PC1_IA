@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.13)  9 MAY 2021 04:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.13)  9 MAY 2021 04:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,7 +740,10 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 129.
  (c:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [1{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+)
+Underfull \vbox (badness 1033) has occurred while \output is active []
+
+ [1{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ] [2]
@@ -833,9 +836,9 @@ Here is how much of TeX's memory you used:
  13956 multiletter control sequences out of 15000+600000
  60575 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,53p,1004b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,8n,53p,861b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/PC1_IA/PC1_IA/Latex/Practica1-IA.pdf" (3 pages, 99564 bytes).
+Output written on "d:/Nueva carpeta (4)/UNI-21-I/IA/PC1/PC1_IA/PC1_IA/Latex/Practica1-IA.pdf" (3 pages, 98989 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  150 compressed objects within 2 object streams
