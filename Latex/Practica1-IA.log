@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  9 MAY 2021 04:37
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  9 MAY 2021 04:34
->>>>>>> ramBryan
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  9 MAY 2021 12:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -513,8 +509,22 @@ LaTeX Info: Redefining \nameref on input line 35.
 \openout4 = `Practica1-IA.out'.
 
  Excluding 'comment' comment.
+Overfull \hbox (2.66722pt too wide) in paragraph at lines 77--77
+ [] 
+ []
+
+
+Overfull \hbox (2.66722pt too wide) in paragraph at lines 77--77
+ [] 
+ []
+
+
+Overfull \hbox (2.66722pt too wide) in paragraph at lines 77--77
+ [] 
+ []
+
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 91.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 91.
@@ -549,15 +559,8 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 91.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 91.
-<<<<<<< HEAD
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-30.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-=======
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 130.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
->>>>>>> ramBryan
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -589,12 +592,7 @@ Underfull \hbox (badness 2302) in paragraph at lines 229--230
 
 
 Underfull \hbox (badness 3690) in paragraph at lines 229--230
-<<<<<<< HEAD
-\OT1/ppl/m/n/8 ta-no-va. BERT: Pre-training of Deep Bi-di-rec-tio-nal Trans-for
--
-=======
 \OT1/ppl/m/n/8 ta-no-va. BERT: Pre-training of Deep Bi-di-rec-tio-nal Trans-for-
->>>>>>> ramBryan
  []
 
 
@@ -624,12 +622,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 232--233
 
 
 Overfull \hbox (9.55707pt too wide) in paragraph at lines 237--238
-<<<<<<< HEAD
-[]\OT1/ppl/m/n/8 SimpleTransformers [][]https://pypi.org/project/simpletransfor
-mers/[][]. 
-=======
 []\OT1/ppl/m/n/8 SimpleTransformers [][]https://pypi.org/project/simpletransformers/[][]. 
->>>>>>> ramBryan
  []
 
 
@@ -646,11 +639,7 @@ Before submitting the final camera ready copy, remember to:
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
 [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
-<<<<<<< HEAD
- (./Practica1-IA.aux
-=======
  (/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.aux
->>>>>>> ramBryan
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
 )
@@ -660,32 +649,15 @@ Package rerunfilecheck Info: File `Practica1-IA.out' has not changed.
 (rerunfilecheck)             Checksum: E81498719B2E012E55ECE77C6E4881CC;649.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 10277 strings out of 481239
- 150705 string characters out of 5920376
+ 10278 strings out of 481239
+ 151462 string characters out of 5920376
  445192 words of memory out of 5000000
  25287 multiletter control sequences out of 15000+600000
  589273 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,55p,945b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pal
-atino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Practica1-IA.pdf (3 pages, 99571 bytes).
-=======
- 10278 strings out of 481239
- 151462 string characters out of 5920376
- 444192 words of memory out of 5000000
- 25287 multiletter control sequences out of 15000+600000
- 589273 words of font info for 154 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 34i,8n,55p,1004b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,8n,55p,1004b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.pdf (3 pages, 99590 bytes).
->>>>>>> ramBryan
+Output written on /home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.pdf (3 pages, 99620 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  150 compressed objects within 2 object streams
