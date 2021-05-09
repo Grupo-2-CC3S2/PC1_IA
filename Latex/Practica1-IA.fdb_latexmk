@@ -1,8 +1,15 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["pdflatex"] 1620581964 "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.tex" "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.pdf" "Practica1-IA" 1620581965
   "/etc/texmf/web2c/texmf.cnf" 1605113623 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.aux" 1620581965 3141 3ed4b98bfc5cd31662f2a80539262244 ""
   "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.tex" 1620581963 37931 70094dabe59e131581142f21c3228591 ""
+=======
+["pdflatex"] 1620581913 "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.tex" "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.pdf" "Practica1-IA" 1620581913
+  "/etc/texmf/web2c/texmf.cnf" 1605113623 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.aux" 1620581913 3141 41affecd526dde1b8f398645f1538c94 ""
+  "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.tex" 1620581911 37987 f72983e170ff0bac47246e13400b826f ""
+>>>>>>> ramBryan
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -126,10 +133,18 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1605113701 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1605113781 8255942 8fcf0d1b64099bab037b3ff07e44d1a9 ""
+<<<<<<< HEAD
   "Practica1-IA.aux" 1620581965 3141 3ed4b98bfc5cd31662f2a80539262244 "pdflatex"
   "Practica1-IA.out" 1620581965 649 e81498719b2e012e55ece77c6e4881cc "pdflatex"
   "Practica1-IA.tex" 1620581963 37931 70094dabe59e131581142f21c3228591 "pdflatex"
   (generated)
+=======
+  "Practica1-IA.aux" 1620581913 3141 41affecd526dde1b8f398645f1538c94 "pdflatex"
+  "Practica1-IA.out" 1620581913 649 e81498719b2e012e55ece77c6e4881cc "pdflatex"
+  "Practica1-IA.tex" 1620581911 37987 f72983e170ff0bac47246e13400b826f ""
+  (generated)
+  "Practica1-IA.aux"
+>>>>>>> ramBryan
   "Practica1-IA.pdf"
   "/home/bryan/Documentos/PROYECTOS_GITHUB/PC1IA/PC1_IA/Latex/Practica1-IA.pdf"
   "Practica1-IA.aux"
