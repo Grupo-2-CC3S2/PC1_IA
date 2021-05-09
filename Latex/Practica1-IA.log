@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  9 MAY 2021 03:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.11)  9 MAY 2021 04:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,7 +522,10 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count288
 \l__pdf_internal_box=\box55
 )
-No file Practica1-IA.aux.
+(./Practica1-IA.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+)
 \openout1 = `Practica1-IA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -543,7 +546,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 3
 5.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 -- Lines per column: 56 (exact).
@@ -588,11 +591,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 35.
 LaTeX Info: Redefining \pageref on input line 35.
 LaTeX Info: Redefining \nameref on input line 35.
+
+(./Practica1-IA.out) (./Practica1-IA.out)
 \@outlinefile=\write4
 \openout4 = `Practica1-IA.out'.
 
-
-Excluding 'comment' comment.
+ Excluding 'comment' comment.
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
 91.
 
@@ -637,63 +641,15 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 91.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 91.
-
-
-LaTeX Warning: Citation `b1' on page 1 undefined on input line 109.
-
-
-LaTeX Warning: Citation `b1' on page 1 undefined on input line 119.
-
-
-LaTeX Warning: Citation `b1' on page 1 undefined on input line 119.
-
-
-LaTeX Warning: Citation `b2' on page 1 undefined on input line 125.
-
-
-LaTeX Warning: Citation `b3' on page 1 undefined on input line 125.
-
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
 29.
+
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-
-LaTeX Warning: Citation `b4' on page 1 undefined on input line 129.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
-
-LaTeX Warning: Citation `b5' on page 2 undefined on input line 144.
-
-
-LaTeX Warning: Citation `b6' on page 2 undefined on input line 152.
-
-
-LaTeX Warning: Citation `b7' on page 2 undefined on input line 158.
-
-
-LaTeX Warning: Citation `b7' on page 2 undefined on input line 170.
-
-
-LaTeX Warning: Citation `b7' on page 2 undefined on input line 170.
-
-
-LaTeX Warning: Citation `b8' on page 2 undefined on input line 185.
-
-
-LaTeX Warning: Citation `b9' on page 2 undefined on input line 193.
-
-[2]
-
-LaTeX Warning: Citation `b10' on page 3 undefined on input line 198.
-
-
-LaTeX Warning: Citation `b11' on page 3 undefined on input line 208.
-
-
+] [2]
 Underfull \hbox (badness 10000) in paragraph at lines 222--223
 []\OT1/ppl/m/n/8 Jimmy Lei Ba, Ja-mie Ryan Ki-ros, Geof-frey
  []
@@ -776,28 +732,15 @@ LaTeX Info: Redefining \% on input line 31.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
-
-
-Package rerunfilecheck Warning: File `Practica1-IA.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Practica1-IA.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  E378030F1C5A1F5ED8F55461F737F471;649.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `Practica1-IA.out' has not changed.
+(rerunfilecheck)             Checksum: E378030F1C5A1F5ED8F55461F737F471;649.
  ) 
 Here is how much of TeX's memory you used:
- 10260 strings out of 481239
- 150450 string characters out of 5920376
- 443664 words of memory out of 5000000
- 25274 multiletter control sequences out of 15000+600000
- 590491 words of font info for 156 fonts, out of 8000000 for 9000
+ 10277 strings out of 481239
+ 150705 string characters out of 5920376
+ 444192 words of memory out of 5000000
+ 25287 multiletter control sequences out of 15000+600000
+ 589273 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,8n,55p,945b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -806,10 +749,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
 ype1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pal
 atino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Practica1-IA.pdf (3 pages, 99660 bytes).
+Output written on Practica1-IA.pdf (3 pages, 99564 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 173 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
  38 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
